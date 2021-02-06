@@ -1,5 +1,5 @@
 import { makeStyles } from '@material-ui/core';
-import CounterProps from './CounterProps';
+import CounterProps from './Counter.types';
 
 const useStyles = makeStyles({
   addbtn: {
