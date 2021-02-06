@@ -1,6 +1,7 @@
 {
   "name": "@cavcha/counter",
-  "version": "0.1.0",
+  "main": "./dist/index.ts",
+  "version": "1.0.0",
   "private": false,
   "peerDependencies": {
     "@material-ui/core": ">=4.11.3 <5.0.0",
