@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Counter from './components/Counter/Counter';
+import { Counter } from './lib';
 
 ReactDOM.render(
   <React.StrictMode>

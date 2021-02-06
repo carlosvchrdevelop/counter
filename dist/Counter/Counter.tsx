@@ -4,7 +4,7 @@ import {
 import { Add, Remove } from '@material-ui/icons';
 import React, { useState, useEffect } from 'react';
 import useStyles from './Counter.styles';
-import CounterProps from './CounterProps';
+import CounterProps from './Counter.types';
 
 /**
  * Renders a styled counter with two buttons to increase and decrease the counter.
